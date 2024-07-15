@@ -1,0 +1,2 @@
+{names: [bus, truck, motorcycle, person, sheeps, bicycle, parking meter], nc: 7, test: test,
+  train: train, val: valid}
